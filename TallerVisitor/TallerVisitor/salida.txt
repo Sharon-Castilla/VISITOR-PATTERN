@@ -1,0 +1,13 @@
+Pedido vacio
+Subtotal: $0.0
+Envio:    $0.0
+Total:    $0.0
+
+Pedido Wtech
+2 Tablets, 1 Portatil, 1 Torre, 1 Television
+Subtotal: $1700.0
+Envio:    $1060.0
+Total:    $2760.0
+
+Cantidad invalida
+Error: La cantidad debe ser mayor que 0
